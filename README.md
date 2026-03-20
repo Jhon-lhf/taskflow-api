@@ -30,7 +30,7 @@ and PostgreSQL.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/taskflow-api.git
+git clone https://github.com/Jhon-lhf/taskflow-api.git
 cd taskflow-api
 ```
 
